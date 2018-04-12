@@ -46,5 +46,5 @@ Por definir.
 Revisa [la licencia](./LICENSE).
 
 
-![footer](../img/OSW-project-GitHub-template-footer.jpg)
+![footer](./docs/img/OSW-project-GitHub-template-footer.jpg)
 
