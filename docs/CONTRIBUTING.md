@@ -17,7 +17,7 @@ Toda contribución tiene que tener en cuenta que **no solo aporta funcionalidad*
 
 * [Implementando nuevas funcionalidades](#implementando-nuevas-funcionalidades).
 * [Revisando Pull Requests](#revisando-pull-requests) para que sean claros y educativos.
-* Aprender Rust con ayuda de este proyecto y [realizar preguntas](#realizar-preguntas).
+* Aprendiendo Rust con ayuda de este proyecto y [realizar preguntas](#realizar-preguntas).
 * [Proponiendo nuevas funcionalidades](#proponiendo-nuevas-funcionalidades).
 
 
