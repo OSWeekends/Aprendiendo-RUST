@@ -32,6 +32,8 @@ En líneas generales utilizamos [GitHub Flow](https://guides.github.com/introduc
 1. Fase de revisión y comentarios.
 1. Publicar la funcionalidad en la rama `master` cerrando el *Pull Request* e *Issue* asociados.
 
+Para gestionar visualmente el estado utilizamos un [tablero de proyectos](https://github.com/OSWeekends/Aprendiendo-RUST/projects/1) de [GitHub Projects](https://help.github.com/articles/about-project-boards/).
+
 Con el cierre de cada *Milestone* recopilamos todos los *Pull Requests* realizados y publicamos un resumen que facilite su navegación y su comprensión.
 
 
