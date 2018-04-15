@@ -13,6 +13,11 @@ grup es un proyecto para aprender Rust. Hay dos opciones según el momento:
 Toda contribución tiene que tener en cuenta que **no solo aporta funcionalidad**, **aporta formación** a la gente que vendrá después.
 
 
+### Guía de estilo
+
+Seguimos la [guía ofical de Rust](https://github.com/rust-lang-nursery/fmt-rfcs/blob/master/guide/guide.md) y utilizamos [rustfmt](https://github.com/rust-lang-nursery/rustfmt).
+
+
 ## ¿Cómo puedo colaborar?
 
 * [Implementando nuevas funcionalidades](#implementando-nuevas-funcionalidades).
