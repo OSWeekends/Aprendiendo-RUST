@@ -1,0 +1,6 @@
+[package]
+name = "grup"
+version = "0.1.0"
+authors = ["Carlos Hernando Carasol <carlos.hernando@gmail.com>"]
+
+[dependencies]
